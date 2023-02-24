@@ -1,3 +1,5 @@
+//Exercitiul 11
+//Sa se afiseze toti divizorii numarului ‘n’ dat.
 import java.util.Scanner;
 public class AfisareDivizori {
 
