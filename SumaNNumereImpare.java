@@ -1,3 +1,5 @@
+//Exercitiul 6
+//Sa se determine suma primelor n numere impare – ‘n’ citit de la tastatura
 import java.util.Scanner;
 public class SumaNNumereImpare {
 
