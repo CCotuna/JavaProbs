@@ -1,4 +1,5 @@
-
+//Exercitiul5
+//Sa se genereze toate numerele de 4 cifre de forma 3a2b care se divid cu 9.
 public class NumereDeForma {
 
 	public static void main(String[] args) {
