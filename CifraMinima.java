@@ -1,3 +1,5 @@
+//Exercitiul 18
+//Sa se afiseze cifra minima a unui numar.
 import java.util.Scanner;
 
 public class CifraMinima{
