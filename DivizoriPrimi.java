@@ -1,3 +1,5 @@
+//Exercitiul12
+//Sa se afiseze toti divizorii primi ai numarului ‘n’ dat.
 import java.util.Scanner;
 public class DivizoriPrimi {
 
