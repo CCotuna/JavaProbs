@@ -1,3 +1,5 @@
+//Exercitiul 10
+//Care este cel mai mic numar prim mai mare ca 1000?
 import java.util.Scanner;
 public class NumarPrim2 {
 	static int NumarPrim(int k) {
