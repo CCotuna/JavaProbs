@@ -1,3 +1,5 @@
+//Exercitiul 16
+//Sa se afiseze separat cifrele unui numar.
 import java.util.Scanner;
 
 public class AfisareCifre {
