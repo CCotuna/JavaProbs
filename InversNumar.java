@@ -1,3 +1,5 @@
+//Exercitiul 19
+//Sa se afiseze inversul unui numar dat (124 -> 421)
 import java.util.Scanner;
 public class InversNumar {
 
