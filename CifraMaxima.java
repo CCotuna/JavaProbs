@@ -1,3 +1,5 @@
+//Exercitiul 17
+//Sa se afiseze cifra maxima a unui numar
 import java.util.Scanner;
 
 public class CifraMaxima {
