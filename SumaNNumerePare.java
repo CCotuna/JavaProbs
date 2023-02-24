@@ -1,3 +1,5 @@
+//Exercitiul 5
+//Sa se determine suma primelor n numere pare – ‘n’ citit de la tastatura
 import java.util.Scanner;
 public class SumaNNumerePare {
 
