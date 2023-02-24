@@ -1,3 +1,6 @@
+/*Exercitiul 20
+Sa se determine daca un numar este palindrom sau nu (palindrom = care citit de la stânga
+la dreapta sau de la dreapta la stânga rămâne neschimbat ex 4334). */
 import java.util.Scanner;
 public class Palindrom {
 
