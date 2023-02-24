@@ -1,3 +1,7 @@
+//Exercitiul 3
+/*Sa se citeasca de la tastatura 2 numere. Daca ambele numere sunt pare sa se afiseze
+media artimetica. Daca ambele sunt impare sa se afiseze produsul lor. Daca unul este par
+si unul impar atunci sa se afiseze suma lor.*/
 import java.util.Scanner;
 public class DouaNumereMedieProduSuma {
 
