@@ -1,4 +1,5 @@
-// Sa se citeasca de la tastatura un numar. 
+//Exercitiu1 
+//Sa se citeasca de la tastatura un numar. 
 //Daca este mai mare decat 5 sa se afiseze pe ecran cuvantul ADMIS, iar daca e mai mic sa se afiseze RESPINS. Daca numarul este mai mic decat 1 si mai mare decat 10 sa se afiseze INVALID
 import java.util.Scanner;
 
