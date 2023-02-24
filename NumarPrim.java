@@ -1,3 +1,5 @@
+//Exercitiul 9
+//Sa se verifice daca un numar n diferit de 0 sau 1 este prim sau nu.
 import java.util.Scanner;
 public class NumarPrim {
 
