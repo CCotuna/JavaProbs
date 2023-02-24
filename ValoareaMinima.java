@@ -1,3 +1,5 @@
+//Exercitiul 4
+//Sa se citeasca de la tastatura 3 numere. Sa se afiseze valoarea minima.
 import java.util.Scanner;
 
 public class ValoareaMinima {
