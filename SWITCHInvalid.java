@@ -1,4 +1,8 @@
-
+/* Exercitiul 2
+Sa se citeasca de la tastatura un numar. Daca este cuprins intre 1 si 5 sa se afiseze
+numarul respectiv dar in litere. Daca este in afara intervalului sa se afiseze INVALID.
+a. Ex. Pt 3 se afiseaza TREI --- Pt 2 se afiseaza DOI ---- Pentru 8 se afiseaza
+INVALID */
 import java.util.Scanner;
 
 public class SWITCHInvalid {
