@@ -1,3 +1,5 @@
+//Exercitiul 8
+//Sa se afiseze factorialul unui numar n citit de la tastatura. (FACT=1*2*3*...*n)
 import java.util.Scanner;
 public class FactorialNumar {
 
