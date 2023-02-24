@@ -1,3 +1,5 @@
+//Exercitiul 7
+//Sa se calculeze media aritmetica a n numere – ‘n’ citit de la tastatura
 import java.util.Scanner;
 public class MedieAritmeticaNNumere {
 
