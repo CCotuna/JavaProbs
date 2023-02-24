@@ -1,4 +1,6 @@
-
+/* Exercitiul 14
+Sa se gaseasca perechile de numere a caror suma este 1000, primul sa fie divizibil cu 17
+sau cu 13 iar al doilea cu 19 sau cu 7.*/
 public class PerechiNumere2 {
 
 	public static void main(String[] args) {
